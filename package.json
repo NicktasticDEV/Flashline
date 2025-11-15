@@ -1,0 +1,9 @@
+{
+  "name": "com.nicktastictoons.flashline",
+  "version": "0.0.0",
+  "displayName": "Flashline",
+  "description": "Play Adobe Animate Texture Atlas files in Unity",
+  "author": {
+    "name": "NicktasticToons"
+  }
+}
